@@ -4,7 +4,7 @@ Alice layout keyboard, retaining full compatibility with any TGR Alice PCB, as w
 ## PCB features
 - QMK / VIA support
 - No through-switch LEDs
-- Support for the use of fourteen WS2812B RGB-KEDs, if backlight is desired.
+- Support for the use of fourteen WS2812B RGB-LEDs, if backlight is desired.
 - Layout options:
     - Stepped/normal caps
     - Split/fullsized backspace
